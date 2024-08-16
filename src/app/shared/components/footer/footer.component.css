@@ -1,0 +1,29 @@
+.footer {
+  background-color: #0c2538;
+  padding: 2rem 0;
+  color: white;
+}
+.footer .footer-logo img {
+  max-width: 150px;
+}
+.footer .social-icons a {
+  margin-right: 1rem;
+  color: white;
+  font-size: 1.5rem;
+}
+.footer .social-icons a:hover {
+  color: #007bff;
+}
+.footer h5 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.footer p {
+  margin-bottom: 0.5rem;
+}
+.footer .list-unstyled a {
+  color: white;
+}
+.footer .list-unstyled a:hover {
+  color: white;
+}
